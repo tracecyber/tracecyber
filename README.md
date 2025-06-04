@@ -17,7 +17,7 @@
 
 ## 📫 Connect with me
 
-- 💼 [LinkedIn]: https://your-linkedin.com](https://www.linkedin.com/in/trace-nguyen-1824a4353/
+- 💼 [LinkedIn]: https://www.linkedin.com/in/trace-nguyen-1824a4353
 - ✉️ Email: tracecyber05@gmail.com
 
 > “Stay curious. Stay secure.” 🔍🛡️
