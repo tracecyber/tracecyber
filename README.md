@@ -1,4 +1,4 @@
-# 👋 Hello world, I'm Trace!
+# 👋 Hello world, I'm Anh Nguyen (Trace)!
 
 ## 🧑‍💻 About Me
 
