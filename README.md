@@ -3,9 +3,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Cybersecurity student at RMIT University  
-- 🔐 Passionate about **Cloud Security**, **Network Defense**, and **Ethical Hacking**
-- ☁️ Exploring the world of **Cloud Cybersecurityg** (GCP, AWS, Azure)
-- 🛠 Currently learning **Python**, **SQL**, and **Linux**
+- 🔐 Passionate about **Network Security**, **Network Defense**, and **Ethical Hacking**
+- ☁️ Exploring the world of **Network, Cybersecurity**
+- 🛠 Currently learning **CCNA**, **Comptia Security+**
 - 🧪 Tinkering with **Kali Linux**, CTFs, and security labs
 - 📈 Also diving into stock investing as a curious newbie 📊💸
 
